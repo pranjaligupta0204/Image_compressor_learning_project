@@ -27,9 +27,9 @@ A beginner-friendly project that helps understand:
 | Original | 50 KB |
 | Compressed | 8 KB |
 
-Below is the comparison image — **original (left)** and **compressed (right)**:
-
-*(Attach your image here)*
+Below is the comparison image — 
+**Original (Left)** vs **Compressed (Right)**  
+![Comparison Image](combined_comparison.jpg)
 
 ---
 
